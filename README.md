@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rittika
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning Bacnkend development
+- 🌱 I’m currently learning Backend development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: She/her
