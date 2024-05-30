@@ -1,4 +1,4 @@
-# RITTIKA CHAKRABORTY
+## RITTIKA CHAKRABORTY
 
 
 - 👋 Hi, I’m Rittika
