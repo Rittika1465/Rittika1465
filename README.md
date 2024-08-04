@@ -2,7 +2,7 @@
 
 
 - 👋 Hi, I’m Rittika
-- 👀 I’m interested in Web development
+- 👀 I’m interested in Web developmentand CyberSecurity
 - 🌱 I’m currently exploring many fields in engineering
 - 📫 Reach me at rittika.ch.b@gmail.com
 - 😄 Pronouns: She/her
